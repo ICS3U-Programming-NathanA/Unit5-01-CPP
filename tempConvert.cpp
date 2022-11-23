@@ -2,7 +2,7 @@
 // .
 // Created by: Chris Di Bert
 // Date: Nov.22, 2022
-// This program converts the temperature in celsius to fahrenheit
+// This program converts the temperature in celsius to fahrenheit, it then displays it to the user
 
 #include <iostream>
 #include <string>
